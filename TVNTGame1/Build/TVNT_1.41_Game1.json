@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "TVNT_1.41_Game1.data.unityweb",
+"asmCodeUrl": "TVNT_1.41_Game1.asm.code.unityweb",
+"asmMemoryUrl": "TVNT_1.41_Game1.asm.memory.unityweb",
+"asmFrameworkUrl": "TVNT_1.41_Game1.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
